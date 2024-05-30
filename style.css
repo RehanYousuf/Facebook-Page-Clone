@@ -8,8 +8,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    height: 100vh;
+    width: 97%;
+    height: 98vh;
 }
  .logo-para img {
     width: 235px;
@@ -19,9 +19,9 @@ body{
 
  .logo-para{
     color: #000;
-    font-size: 26px;
+    font-size: 24px;
     font-weight: normal;
-    line-height: 32px;  
+    line-height: 30px;  
  }
  
 .form-box{
